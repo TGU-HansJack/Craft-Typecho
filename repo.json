@@ -1,0 +1,18 @@
+{
+  "updatedAt": "2026-02-05",
+  "projects": [
+    {
+      "id": "media-library-pro",
+      "name": "媒体库Pro",
+      "type": "plugin",
+      "link": "https://github.com/TGU-HansJack/MediaLibrary-Typecho-Plugin-Pro",
+      "isGithub": true,
+      "direct": true,
+      "version": "0.1.7",
+      "author": "寒士杰克",
+      "donate": "https://www.hansjack.com",
+      "description": "一个功能强大的 Typecho 媒体库管理插件，提供完整的媒体文件管理、预览、编辑和优化功能。",
+      "dir": "MediaLibrary-Typecho-Plugin-Pro"
+    }
+  ]
+}
