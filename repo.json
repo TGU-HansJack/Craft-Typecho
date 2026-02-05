@@ -9,6 +9,7 @@
       "isGithub": true,
       "direct": true,
       "version": "0.1.7",
+      "typecho": ">=1.2.0",
       "author": "寒士杰克",
       "donate": "https://www.hansjack.com",
       "description": "一个功能强大的 Typecho 媒体库管理插件，提供完整的媒体文件管理、预览、编辑和优化功能。",
