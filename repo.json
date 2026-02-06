@@ -89,6 +89,21 @@
       "dir": "BsCore"
     },
     {
+      "id": "loginbeautify",
+      "name": "LoginBeautify",
+      "type": "plugin",
+      "link": "https://github.com/lhl77/Typecho-Plugin-LoginBeautify",
+      "isGithub": true,
+      "direct": true,
+      "version": "1.0.0",
+      "typecho": ">=1.2.1",
+      "author": "LHL",
+      "readme": "",
+      "description": "BearSimple 主题核心插件（配套插件），安装后无需进行其他设置。",
+      "branch": "main",
+      "dir": "LoginBeautify"
+    },
+    {
       "id": "telegram-notice",
       "name": "TelegramNotice",
       "type": "plugin",
