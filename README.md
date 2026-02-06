@@ -38,6 +38,8 @@ Vue3Admin「创意工坊」远程项目索引仓库。
 | [OneBlog](https://github.com/cncodehub/OneBlog) | 主题 | 3.6.5 | 彼岸临窗 | >=1.2.1 | 一款简约清新文艺的写作记录类 Typecho 主题，适合生活记录、文学作品、个人日志等文字类博客。 | [使用文档](https://docs.oneblog.net) |
 | [Joe](https://github.com/HaoOuBa/Joe) | 主题 | 7.7.1 | Joe | — | 一款基于 Typecho 的双栏极致优化主题。 | [使用文档](https://78.al) |
 | [Pinghsu](https://github.com/chakhsu/pinghsu) | 主题 | 1.6.2 | Chakhsu Lau | 开发版 | 一款以性能优化为出发点、兼顾设计美学的 Typecho 主题。 | [使用文档](https://www.linpx.com/p/more-detailed-pinghsu-theme-set-tutorial.html) |
+| [BearSimple](https://github.com/whitebearcode/typecho-bearsimple) | 主题 | 2.9.9 | BearNotion | >=1.3.0 | 一款简洁大方的 Typecho 主题（V2），需配套插件 BsCore。 | [使用文档](https://www.bearnotion.ru/typecho-bearsimple.html) |
+| [BsCore](https://github.com/whitebearcode/typecho-bearsimple) | 插件 | 2.9.9 | BearNotion | >=1.3.0 | BearSimple 主题核心插件（配套插件），安装后无需进行其他设置。 | [使用文档](https://www.bearnotion.ru/typecho-bearsimple.html) |
 
 ## 声明
 
