@@ -99,7 +99,7 @@
       "typecho": ">=1.2.1",
       "author": "LHL",
       "readme": "",
-      "description": "BearSimple 主题核心插件（配套插件），安装后无需进行其他设置。",
+      "description": "Material 风格登录界面美化",
       "branch": "main",
       "dir": "LoginBeautify"
     },
