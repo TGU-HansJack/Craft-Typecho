@@ -87,6 +87,22 @@
       "branch": "v2.x",
       "subdir": "配套插件/BsCore",
       "dir": "BsCore"
+    },
+    {
+      "id": "telegram-notice",
+      "name": "TelegramNotice",
+      "type": "plugin",
+      "link": "https://github.com/lhl77/Typecho-Plugin-TelegramNotice",
+      "isGithub": true,
+      "direct": true,
+      "version": "1.1.0",
+      "typecho": ">=1.2.1",
+      "author": "LHL",
+      "readme": "https://blog.lhl.one/artical/815.html",
+      "description": "Telegram 推送评论通知、文章（支持多 Chat ID 群发、邮箱绑定、评论回复）。",
+      "branch": "main",
+      "subdir": "TelegramNotice",
+      "dir": "TelegramNotice"
     }
   ]
 }
