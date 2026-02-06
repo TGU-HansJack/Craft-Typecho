@@ -36,6 +36,8 @@ Vue3Admin「创意工坊」远程项目索引仓库。
 | --- | --- | --- | --- | --- | --- | --- |
 | [媒体库Pro](https://github.com/TGU-HansJack/MediaLibrary-Typecho-Plugin-Pro) | 插件 | 0.1.7 | 寒士杰克 | >=1.2.0 | 一个功能强大的 Typecho 媒体库管理插件，提供完整的媒体文件管理、预览、编辑和优化功能。 | [使用文档](https://craft.hansjack.com/plugins/medialibrary.html) |
 | [OneBlog](https://github.com/cncodehub/OneBlog) | 主题 | 3.6.5 | 彼岸临窗 | >=1.2.1 | 一款简约清新文艺的写作记录类 Typecho 主题，适合生活记录、文学作品、个人日志等文字类博客。 | [使用文档](https://docs.oneblog.net) |
+| [Joe](https://github.com/HaoOuBa/Joe) | 主题 | 7.7.1 | Joe | — | 一款基于 Typecho 的双栏极致优化主题。 | [使用文档](https://78.al) |
+| [Pinghsu](https://github.com/chakhsu/pinghsu) | 主题 | 1.6.2 | Chakhsu Lau | 开发版 | 一款以性能优化为出发点、兼顾设计美学的 Typecho 主题。 | [使用文档](https://www.linpx.com/p/more-detailed-pinghsu-theme-set-tutorial.html) |
 
 ## 声明
 

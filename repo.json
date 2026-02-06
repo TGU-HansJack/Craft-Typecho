@@ -9,7 +9,7 @@
       "isGithub": true,
       "direct": true,
       "version": "0.1.7",
-      "typecho": ">=1.2.0",
+      "typecho": ">=1.1.7",
       "author": "寒士杰克",
       "readme": "https://craft.hansjack.com/plugins/medialibrary.html",
       "description": "一个功能强大的 Typecho 媒体库管理插件，提供完整的媒体文件管理、预览、编辑和优化功能。",
@@ -28,6 +28,34 @@
       "readme": "https://docs.oneblog.net",
       "description": "一款简约清新文艺的写作记录类 Typecho 主题，适合生活记录、文学作品、个人日志等文字类博客。",
       "dir": "OneBlog"
+    },
+    {
+      "id": "joe",
+      "name": "Joe",
+      "type": "theme",
+      "link": "https://github.com/HaoOuBa/Joe",
+      "isGithub": true,
+      "direct": true,
+      "version": "7.7.1",
+      "typecho": "",
+      "author": "Joe",
+      "readme": "https://78.al",
+      "description": "一款基于 Typecho 的双栏极致优化主题。",
+      "dir": "Joe"
+    },
+    {
+      "id": "pinghsu",
+      "name": "Pinghsu",
+      "type": "theme",
+      "link": "https://github.com/chakhsu/pinghsu",
+      "isGithub": true,
+      "direct": true,
+      "version": "1.6.2",
+      "typecho": "开发版",
+      "author": "Chakhsu Lau",
+      "readme": "https://www.linpx.com/p/more-detailed-pinghsu-theme-set-tutorial.html",
+      "description": "一款以性能优化为出发点、兼顾设计美学的 Typecho 主题。",
+      "dir": "pinghsu"
     }
   ]
 }
