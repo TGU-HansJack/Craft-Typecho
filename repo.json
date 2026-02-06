@@ -3,7 +3,7 @@
   "projects": [
     {
       "id": "media-library-pro",
-      "name": "媒体库Pro",
+      "name": "MediaLibrary-Pro",
       "type": "plugin",
       "link": "https://github.com/TGU-HansJack/MediaLibrary-Typecho-Plugin-Pro",
       "isGithub": true,
