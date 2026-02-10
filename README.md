@@ -43,6 +43,7 @@ Vue3Admin「创意工坊」远程项目索引仓库。
 | [BearSimple](https://github.com/whitebearcode/typecho-bearsimple) | 主题 | 2.9.9 | BearNotion | >=1.3.0 | 一款简洁大方的 Typecho 主题（V2），需配套插件 BsCore。 | [使用文档](https://www.bearnotion.ru/typecho-bearsimple.html) |
 | [BsCore](https://github.com/whitebearcode/typecho-bearsimple) | 插件 | 2.9.9 | BearNotion | >=1.3.0 | BearSimple 主题核心插件（配套插件），安装后无需进行其他设置。 | [使用文档](https://www.bearnotion.ru/typecho-bearsimple.html) |
 | [TelegramNotice](https://github.com/lhl77/Typecho-Plugin-TelegramNotice) | 插件 | 1.1.0 | LHL | >=1.2.1 | Telegram 推送评论通知、文章（支持多 Chat ID 群发、邮箱绑定、评论回复）。 | [使用文档](https://blog.lhl.one/artical/815.html) |
+| [Links Plus](https://github.com/lhl77/Typecho-Plugin-LinksPlus) | 插件 | 1.3.2 | LHL | >=1.2.1 | 友情链接管理插件，支持多种输出方式，内置多种主题  | [使用文档](https://blog.lhl.one/artical/902.html) |
 
 ## 声明
 
